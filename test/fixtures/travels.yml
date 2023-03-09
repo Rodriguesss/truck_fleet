@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  destination_date: 2023-03-07
+  date_of_origin: 2023-03-07
+  expected_date: 2023-03-07
+
+two:
+  destination_date: 2023-03-07
+  date_of_origin: 2023-03-07
+  expected_date: 2023-03-07
